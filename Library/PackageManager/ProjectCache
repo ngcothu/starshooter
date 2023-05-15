@@ -1,188 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Data/Projects/Unity/Sample/Starshooter/Packages/manifest.json
+    m_FilePath: C:/Data/Projects/Unity/Sample/space shooter/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638164011645326515
-    m_Hash: 2690853359
+      ticks: 638181941932653335
+    m_Hash: 4153295679
   m_LockFileStatus:
-    m_FilePath: C:/Data/Projects/Unity/Sample/Starshooter/Packages/packages-lock.json
+    m_FilePath: C:/Data/Projects/Unity/Sample/space shooter/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638164011704335738
-    m_Hash: 594776021
+      ticks: 638181942832943475
+    m_Hash: 3077325015
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Data/Projects/Unity/Sample/Starshooter/Packages
+m_ProjectPath: C:/Data/Projects/Unity/Sample/space shooter/Packages
 m_EditorVersion: 2021.3.17f1 (3e8111cac19d)
 m_ResolvedPackages:
-- packageId: com.unity.cinemachine@2.8.9
+- packageId: com.unity.collab-proxy@2.0.1
   testable: 0
   isDirectDependency: 1
-  version: 2.8.9
+  version: 2.0.1
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.cinemachine@2.8.9
-  assetPath: Packages/com.unity.cinemachine
-  name: com.unity.cinemachine
-  displayName: Cinemachine
-  author:
-    name: 
-    email: 
-    url: 
-  category: cinematography
-  type: asset
-  description: "Smart camera tools for passionate creators. \n\nNew starting from
-    2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
-    menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
-    of Cinemachine, delete the Cinemachine asset from your project BEFORE installing
-    this version from the Package Manager."
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 2.1.11-beta.1
-    - 2.1.12
-    - 2.1.13
-    - 2.2.0
-    - 2.2.7
-    - 2.2.8
-    - 2.2.9
-    - 2.2.10-preview.3
-    - 2.2.10-preview.4
-    - 2.3.1
-    - 2.3.3
-    - 2.3.4
-    - 2.3.5-preview.3
-    - 2.4.0-preview.3
-    - 2.4.0-preview.4
-    - 2.4.0-preview.6
-    - 2.4.0-preview.7
-    - 2.4.0-preview.8
-    - 2.4.0-preview.9
-    - 2.4.0-preview.10
-    - 2.4.0
-    - 2.5.0
-    - 2.6.0-preview.2
-    - 2.6.0-preview.3
-    - 2.6.0-preview.5
-    - 2.6.0-preview.8
-    - 2.6.0
-    - 2.6.1-preview.6
-    - 2.6.1
-    - 2.6.2-preview.1
-    - 2.6.2
-    - 2.6.3-preview.2
-    - 2.6.3
-    - 2.6.4
-    - 2.6.5
-    - 2.6.9
-    - 2.6.10
-    - 2.6.11
-    - 2.6.14
-    - 2.6.15
-    - 2.6.17
-    - 2.7.1
-    - 2.7.2
-    - 2.7.3
-    - 2.7.4
-    - 2.7.5
-    - 2.7.8
-    - 2.7.9
-    - 2.8.0-exp.1
-    - 2.8.0-exp.2
-    - 2.8.0-pre.1
-    - 2.8.0
-    - 2.8.1
-    - 2.8.2
-    - 2.8.3
-    - 2.8.4
-    - 2.8.6
-    - 2.8.9
-    - 2.9.0-pre.1
-    - 2.9.0-pre.6
-    - 2.9.1
-    - 2.9.2
-    - 2.9.4
-    - 2.9.5
-    - 3.0.0-pre.3
-    - 3.0.0-pre.4
-    compatible:
-    - 2.8.9
-    - 2.9.0-pre.1
-    - 2.9.0-pre.6
-    - 2.9.1
-    - 2.9.2
-    - 2.9.4
-    - 2.9.5
-    verified: 2.8.9
-  dependencies:
-  - name: com.unity.test-framework
-    version: 1.1.31
-  resolvedDependencies:
-  - name: com.unity.test-framework
-    version: 1.1.31
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - camera
-  - follow
-  - rig
-  - fps
-  - cinematography
-  - aim
-  - orbit
-  - cutscene
-  - cinematic
-  - collision
-  - freelook
-  - cinemachine
-  - compose
-  - composition
-  - dolly
-  - track
-  - clearshot
-  - noise
-  - framing
-  - handheld
-  - lens
-  - impulse
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637975495930000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
-    revision: 92bcde243d623d77c64960a552f29396770af1e1
-    path: 
-  unityLifecycle:
-    version: 2.8.9
-    nextVersion: 
-- packageId: com.unity.collab-proxy@1.17.7
-  testable: 0
-  isDirectDependency: 1
-  version: 1.17.7
-  source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.collab-proxy@1.17.7
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.collab-proxy@2.0.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -192,10 +37,9 @@ m_ResolvedPackages:
     url: 
   category: Editor
   type: asset
-  description: The Version Control package gives you the ability to use either Collaborate
-    or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic SCM for Unity
-    (beta), a Plastic SCM subscription is required. Learn more about how you can
-    get started for free by visiting plasticscm.com.
+  description: The package gives you the ability to use the Unity Version Control
+    in the Unity editor. To use Unity Version Control, a subscription is required.
+    Learn more about how you can get started for free by visiting plasticscm.com.
   status: 0
   errors: []
   versions:
@@ -262,6 +106,7 @@ m_ResolvedPackages:
     - 2.0.0
     - 2.0.1
     - 2.0.3
+    - 2.0.4
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
@@ -277,22 +122,13 @@ m_ResolvedPackages:
     - 2.0.0
     - 2.0.1
     - 2.0.3
+    - 2.0.4
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     verified: 1.17.7
-  dependencies:
-  - name: com.unity.services.core
-    version: 1.0.1
-  resolvedDependencies:
-  - name: com.unity.services.core
-    version: 1.7.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
   keywords:
   - backup
   - cloud
@@ -300,6 +136,7 @@ m_ResolvedPackages:
   - collaborate
   - collaboration
   - control
+  - devops
   - plastic
   - plasticscm
   - source
@@ -317,143 +154,101 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638036787040000000
-  documentationUrl: 
+  datePublishedTicks: 638125977010000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 1641a631fd39029595decb52bdfb641b32ed194c
+    revision: 8740b4e630f877841cfa8e22ddfbcb237b70a9e6
     path: 
   unityLifecycle:
     version: 1.17.7
     nextVersion: 
-- packageId: com.unity.ext.nunit@1.0.6
+- packageId: com.unity.feature.2d@1.0.0
   testable: 0
   isDirectDependency: 1
-  version: 1.0.6
-  source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.ext.nunit@1.0.6
-  assetPath: Packages/com.unity.ext.nunit
-  name: com.unity.ext.nunit
-  displayName: Custom NUnit
-  author:
-    name: 
-    email: 
-    url: 
-  category: Libraries
-  type: asset
-  description: Custom version of the nunit package build to work with Unity. Used
-    by the Unity Test Framework.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.1.5-preview
-    - 0.1.6-preview
-    - 0.1.9-preview
-    - 1.0.0
-    - 1.0.5
-    - 1.0.6
-    - 2.0.2
-    - 2.0.3
-    compatible:
-    - 1.0.6
-    - 2.0.2
-    - 2.0.3
-    verified: 1.0.6
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - nunit
-  - unittest
-  - test
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637429759280000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
-    revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
-    path: 
-  unityLifecycle:
-    version: 1.0.6
-    nextVersion: 
-- packageId: com.unity.feature.development@1.0.1
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.1
+  version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.feature.development@1.0.1
-  assetPath: Packages/com.unity.feature.development
-  name: com.unity.feature.development
-  displayName: Engineering
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.feature.2d@1.0.0
+  assetPath: Packages/com.unity.feature.2d
+  name: com.unity.feature.2d
+  displayName: 2D
   author:
     name: 
     email: 
     url: 
   category: 
   type: feature
-  description: "Optimize your development experience in Unity with the Dev Tools
-    feature set. Enable support for multiple integrated development environments
-    (IDE) for editing your Unity code. Get access to development tools to help you
-    test and analyze your project\u2019s performance."
+  description: Import images including multi-layered Photoshop files as Sprites and
+    configure them to create 2D games. Create freeform, tile-based and spline-based
+    2D game worlds. Create frame-by-frame and bone-based animated characters. Integrated
+    with 2D physics to support simulations with colliders and joints. Supports the
+    needs of a range of 2D art styles, including pixel art.
   status: 0
   errors: []
   versions:
     all:
-    - 1.0.1
+    - 1.0.0
     compatible:
-    - 1.0.1
-    verified: 1.0.1
+    - 1.0.0
+    verified: 1.0.0
   dependencies:
-  - name: com.unity.ide.visualstudio
+  - name: com.unity.2d.animation
     version: default
-  - name: com.unity.ide.rider
+  - name: com.unity.2d.pixel-perfect
     version: default
-  - name: com.unity.ide.vscode
+  - name: com.unity.2d.psdimporter
     version: default
-  - name: com.unity.editorcoroutines
+  - name: com.unity.2d.sprite
     version: default
-  - name: com.unity.performance.profile-analyzer
+  - name: com.unity.2d.spriteshape
     version: default
-  - name: com.unity.test-framework
+  - name: com.unity.2d.tilemap
     version: default
-  - name: com.unity.testtools.codecoverage
+  - name: com.unity.2d.tilemap.extras
     version: default
   resolvedDependencies:
-  - name: com.unity.ide.visualstudio
-    version: 2.0.17
-  - name: com.unity.test-framework
-    version: 1.1.31
-  - name: com.unity.ext.nunit
-    version: 1.0.6
+  - name: com.unity.2d.animation
+    version: 7.0.9
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.ide.rider
-    version: 3.0.18
-  - name: com.unity.ide.vscode
-    version: 1.2.5
-  - name: com.unity.editorcoroutines
+  - name: com.unity.modules.uielementsnative
     version: 1.0.0
-  - name: com.unity.performance.profile-analyzer
-    version: 1.1.1
-  - name: com.unity.testtools.codecoverage
-    version: 1.2.2
-  - name: com.unity.settings-manager
-    version: 1.0.3
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.2d.pixel-perfect
+    version: 5.0.3
+  - name: com.unity.2d.psdimporter
+    version: 6.0.7
+  - name: com.unity.2d.spriteshape
+    version: 7.0.6
+  - name: com.unity.2d.path
+    version: 5.0.2
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap.extras
+    version: 2.2.4
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
   keywords: []
   registry:
     id: main
@@ -474,14 +269,14 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 1.0.1
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.ide.rider@3.0.18
   testable: 0
   isDirectDependency: 1
   version: 3.0.18
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.ide.rider@3.0.18
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.ide.rider@3.0.18
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -532,9 +327,13 @@ m_ResolvedPackages:
     - 3.0.16
     - 3.0.17
     - 3.0.18
+    - 3.0.20
+    - 3.0.21
     compatible:
     - 3.0.18
-    verified: 3.0.18
+    - 3.0.20
+    - 3.0.21
+    verified: 3.0.21
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -568,7 +367,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.17
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.ide.visualstudio@2.0.17
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -605,9 +404,11 @@ m_ResolvedPackages:
     - 2.0.15
     - 2.0.16
     - 2.0.17
+    - 2.0.18
     compatible:
     - 2.0.17
-    verified: 2.0.17
+    - 2.0.18
+    verified: 2.0.18
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -647,7 +448,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -704,101 +505,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.postprocessing@3.2.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.2.2
-  source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.postprocessing@3.2.2
-  assetPath: Packages/com.unity.postprocessing
-  name: com.unity.postprocessing
-  displayName: Post Processing
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: The post-processing stack (v2) comes with a collection of effects
-    and image filters you can apply to your cameras to improve the visuals of your
-    games.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.1.7
-    - 0.1.8
-    - 2.0.0-beta
-    - 2.0.1-beta
-    - 2.0.2-preview
-    - 2.0.3-preview
-    - 2.0.5-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 2.0.9-preview
-    - 2.0.10-preview
-    - 2.0.11-preview
-    - 2.0.12-preview
-    - 2.0.13-preview
-    - 2.0.14-preview
-    - 2.0.15-preview
-    - 2.0.16-preview
-    - 2.0.17-preview
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.5
-    - 2.1.6
-    - 2.1.7
-    - 2.2.1
-    - 2.2.2
-    - 2.3.0
-    - 3.0.1
-    - 3.0.3
-    - 3.1.0
-    - 3.1.1
-    - 3.2.0
-    - 3.2.1
-    - 3.2.2
-    compatible:
-    - 3.2.2
-    verified: 3.2.2
-  dependencies:
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637855259850000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/Graphics.git
-    revision: 815ce78463c7d3006fa97cd6e8898d91cb9c3ebf
-    path: 
-  unityLifecycle:
-    version: 3.2.2
-    nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.test-framework@1.1.31
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -912,7 +624,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1081,7 +793,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.timeline@1.6.4
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1165,6 +877,7 @@ m_ResolvedPackages:
     - 1.6.2
     - 1.6.3
     - 1.6.4
+    - 1.6.5
     - 1.7.0-pre.1
     - 1.7.0-pre.2
     - 1.7.0
@@ -1177,6 +890,7 @@ m_ResolvedPackages:
     - 1.8.2
     compatible:
     - 1.6.4
+    - 1.6.5
     - 1.7.0-pre.1
     - 1.7.0-pre.2
     - 1.7.0
@@ -1187,7 +901,7 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.8.1
     - 1.8.2
-    verified: 1.6.4
+    verified: 1.6.5
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -1238,7 +952,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1257,6 +971,7 @@ m_ResolvedPackages:
   versions:
     all:
     - 1.0.0
+    - 3.0.0-exp.1
     compatible:
     - 1.0.0
     verified: 1.0.0
@@ -1301,7 +1016,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.0
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.visualscripting@1.8.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.visualscripting@1.8.0
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1388,7 +1103,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1437,7 +1152,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1485,7 +1200,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1534,7 +1249,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1583,7 +1298,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1632,7 +1347,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1685,7 +1400,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1742,7 +1457,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1792,7 +1507,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1841,7 +1556,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1890,7 +1605,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1939,7 +1654,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1988,7 +1703,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2037,7 +1752,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2090,7 +1805,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2139,7 +1854,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2196,7 +1911,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2248,7 +1963,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2297,7 +2012,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2362,7 +2077,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2411,7 +2126,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2468,7 +2183,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2517,7 +2232,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2574,7 +2289,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2631,7 +2346,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2688,7 +2403,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2761,7 +2476,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2814,7 +2529,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2875,7 +2590,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2938,7 +2653,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2987,7 +2702,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3048,7 +2763,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3101,7 +2816,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -3156,34 +2871,504 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.editorcoroutines@1.0.0
+- packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
-  version: 1.0.0
+  version: 1.0.6
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.editorcoroutines@1.0.0
-  assetPath: Packages/com.unity.editorcoroutines
-  name: com.unity.editorcoroutines
-  displayName: Editor Coroutines
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  assetPath: Packages/com.unity.ext.nunit
+  name: com.unity.ext.nunit
+  displayName: Custom NUnit
+  author:
+    name: 
+    email: 
+    url: 
+  category: Libraries
+  type: asset
+  description: Custom version of the nunit package build to work with Unity. Used
+    by the Unity Test Framework.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.9-preview
+    - 1.0.0
+    - 1.0.5
+    - 1.0.6
+    - 2.0.2
+    - 2.0.3
+    compatible:
+    - 1.0.6
+    - 2.0.2
+    - 2.0.3
+    verified: 1.0.6
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - nunit
+  - unittest
+  - test
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 637429759280000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
+    revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
+    path: 
+  unityLifecycle:
+    version: 1.0.6
+    nextVersion: 
+- packageId: com.unity.2d.animation@7.0.9
+  testable: 0
+  isDirectDependency: 0
+  version: 7.0.9
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.animation@7.0.9
+  assetPath: Packages/com.unity.2d.animation
+  name: com.unity.2d.animation
+  displayName: 2D Animation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: 2D Animation provides all the necessary tooling and runtime components
+    for skeletal animation using Sprites.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.15-preview.1
+    - 1.0.15-preview.2
+    - 1.0.15-preview.3
+    - 1.0.15-preview.4
+    - 1.0.15-preview.5
+    - 1.0.16-preview
+    - 1.0.16-preview.1
+    - 1.0.16-preview.2
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0-preview.3
+    - 2.1.0-preview.1
+    - 2.1.0-preview.2
+    - 2.1.0-preview.4
+    - 2.1.0-preview.5
+    - 2.1.0-preview.7
+    - 2.2.0-preview.1
+    - 2.2.0-preview.4
+    - 2.2.0-preview.5
+    - 2.2.1-preview.1
+    - 2.2.1-preview.2
+    - 3.0.2
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.8
+    - 3.1.0
+    - 3.1.1
+    - 3.2.1
+    - 3.2.2
+    - 3.2.3
+    - 3.2.4
+    - 3.2.5
+    - 3.2.6
+    - 3.2.9
+    - 3.2.10
+    - 3.2.11
+    - 3.2.13
+    - 3.2.14
+    - 3.2.15
+    - 3.2.16
+    - 3.2.17
+    - 3.2.18
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.1.1
+    - 4.2.1
+    - 4.2.2
+    - 4.2.3
+    - 4.2.4
+    - 4.2.5
+    - 4.2.6
+    - 4.2.8
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    - 5.0.4
+    - 5.0.5
+    - 5.0.6
+    - 5.0.7
+    - 5.0.8
+    - 5.0.9
+    - 5.0.10
+    - 5.1.0
+    - 5.1.1
+    - 5.2.0
+    - 5.2.1
+    - 5.2.3
+    - 5.2.4
+    - 5.2.6
+    - 6.0.0-pre.1
+    - 6.0.0-pre.2
+    - 6.0.1
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.7
+    - 7.0.0-pre.2
+    - 7.0.0-pre.3
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
+    - 7.0.6
+    - 7.0.7
+    - 7.0.8
+    - 7.0.9
+    - 7.0.10
+    - 8.0.0-pre.3
+    - 8.0.0-pre.4
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 8.0.3
+    - 8.0.4
+    - 8.0.5
+    - 9.0.0-pre.1
+    - 9.0.0-pre.3
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 10.0.0-pre.1
+    - 10.0.0-pre.2
+    - 10.0.0
+    compatible:
+    - 7.0.9
+    - 7.0.10
+    verified: 7.0.10
+  dependencies:
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  keywords:
+  - 2d
+  - animation
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638035874810000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: aebc9b022b1d3ecdcc734e0ee8f139df3f3fe3dd
+    path: 
+  unityLifecycle:
+    version: 7.0.9
+    nextVersion: 
+- packageId: com.unity.2d.pixel-perfect@5.0.3
+  testable: 0
+  isDirectDependency: 0
+  version: 5.0.3
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
+  assetPath: Packages/com.unity.2d.pixel-perfect
+  name: com.unity.2d.pixel-perfect
+  displayName: 2D Pixel Perfect
   author:
     name: 
     email: 
     url: 
   category: 
-  type: asset
-  description: 'The editor coroutines package allows developers to start constructs
-    similar to Unity''s monobehaviour based coroutines within the editor using abitrary
-    objects. '
+  type: tool
+  description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
+    which ensures your pixel art remains crisp and clear at different resolutions,
+    and stable in motion.
+
+
+    It is a single component that makes all the calculations
+    needed to scale the viewport with resolution changes, removing the hassle from
+    the user. The user can adjust the definition of the pixel art rendered within
+    the camera viewport through the component settings, as well preview any changes
+    immediately in Game view by using the Run in Edit Mode feature.'
   status: 0
   errors: []
   versions:
     all:
-    - 0.0.1-preview.3
-    - 0.0.1-preview.4
-    - 0.0.1-preview.5
-    - 0.0.2-preview.1
-    - 0.1.0-preview.1
-    - 0.1.0-preview.2
+    - 1.0.0-preview
+    - 1.0.1-preview
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    compatible:
+    - 5.0.3
+    verified: 5.0.3
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - pixel
+  - perfect
+  - 2D
+  - sprite
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638023910590000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 6dea8ac5bd6953acd64f1ac9d470912954b0c015
+    path: 
+  unityLifecycle:
+    version: 5.0.3
+    nextVersion: 
+- packageId: com.unity.2d.psdimporter@6.0.7
+  testable: 0
+  isDirectDependency: 0
+  version: 6.0.7
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.psdimporter@6.0.7
+  assetPath: Packages/com.unity.2d.psdimporter
+  name: com.unity.2d.psdimporter
+  displayName: 2D PSD Importer
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
+    file format. The ScriptedImporter is currently targeted for users who wants to
+    create multi Sprite character animation using Unity 2D Animation Package.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.1.0-preview.1
+    - 1.1.0-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.3
+    - 1.2.0-preview.4
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.7
+    - 2.1.0
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 3.0.0
+    - 3.1.1
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    - 3.1.7
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.1
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.3
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    - 9.0.0
+    compatible:
+    - 6.0.7
+    verified: 6.0.7
+  dependencies:
+  - name: com.unity.2d.animation
+    version: 7.0.9
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.animation
+    version: 7.0.9
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  keywords:
+  - 2d
+  - psdimporter
+  - assetimporter
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638067887380000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@6.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 911204bb63dcf2da80b6063d54c4ec8737ad13dc
+    path: 
+  unityLifecycle:
+    version: 6.0.7
+    nextVersion: 
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 0
+  errors: []
+  versions:
+    all:
     - 1.0.0
     compatible:
     - 1.0.0
@@ -3191,9 +3376,9 @@ m_ResolvedPackages:
   dependencies: []
   resolvedDependencies: []
   keywords:
-  - coroutine
-  - coroutines
-  - editor
+  - 2d
+  - sprite
+  - sprite editor window
   registry:
     id: main
     name: 
@@ -3202,160 +3387,164 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637232611380000000
+  datePublishedTicks: 0
   documentationUrl: 
-  hasRepository: 1
+  hasRepository: 0
   repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.editorcoroutines.git
-    revision: f67fc9992bbc7a553b17375de53a8b2db136528e
+    type: 
+    url: 
+    revision: 
     path: 
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.performance.profile-analyzer@1.1.1
+- packageId: com.unity.2d.spriteshape@7.0.6
   testable: 0
   isDirectDependency: 0
-  version: 1.1.1
+  version: 7.0.6
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
-  assetPath: Packages/com.unity.performance.profile-analyzer
-  name: com.unity.performance.profile-analyzer
-  displayName: Profile Analyzer
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.spriteshape@7.0.6
+  assetPath: Packages/com.unity.2d.spriteshape
+  name: com.unity.2d.spriteshape
+  displayName: 2D SpriteShape
   author:
     name: 
     email: 
     url: 
-  category: 
+  category: 2D
   type: asset
-  description: "The Profile Analyzer tool supports the standard Unity Profiler. You
-    can use it to analyze multiple frames and multiple data sets of the CPU data
-    in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single
-    set of Profiler CPU data \n\u25AA Comparison of two multi-frame profile scans
-    \n\n"
+  description: SpriteShape Runtime & Editor Package contains the tooling and the
+    runtime component that allows you to create very organic looking spline based
+    2D worlds. It comes with intuitive configurator and a highly performant renderer.
   status: 0
   errors: []
   versions:
     all:
-    - 0.4.0-preview.3
-    - 0.4.0-preview.5
-    - 0.4.0-preview.6
-    - 0.5.0-preview.1
-    - 0.6.0-preview.1
-    - 0.7.0-preview.4
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.3
-    - 1.1.0-pre.2
-    - 1.1.0
-    - 1.1.1
-    - 1.2.2
+    - 1.0.10-preview.2
+    - 1.0.11-preview
+    - 1.0.12-preview
+    - 1.0.12-preview.1
+    - 1.0.14-preview.2
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.0-preview.7
+    - 2.0.0-preview.8
+    - 2.0.0-preview.9
+    - 2.1.0-preview.2
+    - 2.1.0-preview.6
+    - 2.1.0-preview.7
+    - 2.1.0-preview.10
+    - 2.1.0-preview.11
+    - 3.0.1
+    - 3.0.2
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.7
+    - 3.0.8
+    - 3.0.9
+    - 3.0.10
+    - 3.0.11
+    - 3.0.12
+    - 3.0.13
+    - 3.0.14
+    - 3.0.15
+    - 3.0.16
+    - 3.0.17
+    - 3.0.18
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.1.0
+    - 5.1.1
+    - 5.1.2
+    - 5.1.3
+    - 5.1.4
+    - 5.1.5
+    - 5.1.6
+    - 5.1.7
+    - 5.2.0
+    - 5.3.0
+    - 6.0.0-pre.1
+    - 6.0.0-pre.2
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 7.0.0-pre.2
+    - 7.0.0-pre.3
+    - 7.0.0
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
+    - 7.0.6
+    - 7.0.7
+    - 8.0.0-pre.4
+    - 8.0.0-pre.5
+    - 8.0.0
+    - 8.0.1
+    - 9.0.0-pre.1
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 10.0.0-pre.1
+    - 10.0.0-pre.2
+    - 10.0.0
     compatible:
-    - 1.1.1
-    - 1.2.2
-    verified: 1.1.1
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637705021060000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.performance.profile-analyzer.git
-    revision: 6dcda6aee96901e98a4f01b85589054b9274ba74
-    path: 
-  unityLifecycle:
-    version: 1.1.1
-    nextVersion: 
-- packageId: com.unity.testtools.codecoverage@1.2.2
-  testable: 0
-  isDirectDependency: 0
-  version: 1.2.2
-  source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2
-  assetPath: Packages/com.unity.testtools.codecoverage
-  name: com.unity.testtools.codecoverage
-  displayName: Code Coverage
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: Use this package to export code coverage data and reports from your
-    automated tests. Additionally, the Code Coverage package offers a Coverage Recording
-    feature which allows capturing coverage data on demand, for manual testing or
-    when there are no automated tests in the project.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.2.0-preview
-    - 0.2.1-preview
-    - 0.2.2-preview
-    - 0.2.3-preview
-    - 0.3.0-preview
-    - 0.3.1-preview
-    - 0.4.0-preview
-    - 0.4.1-preview
-    - 0.4.2-preview
-    - 0.4.3-preview
-    - 1.0.0-pre.1
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
-    - 1.0.0
-    - 1.0.1
-    - 1.1.0
-    - 1.1.1
-    - 1.2.0-exp.1
-    - 1.2.0-exp.2
-    - 1.2.0-exp.3
-    - 1.2.0-exp.4
-    - 1.2.0-exp.5
-    - 1.2.0-exp.6
-    - 1.2.0-exp.7
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    compatible:
-    - 1.2.2
-    verified: 1.2.2
+    - 7.0.6
+    - 7.0.7
+    verified: 7.0.7
   dependencies:
-  - name: com.unity.test-framework
-    version: 1.0.16
-  - name: com.unity.settings-manager
-    version: 1.0.1
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.2d.common
+    version: 6.0.4
+  - name: com.unity.2d.path
+    version: 5.0.2
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.test-framework
-    version: 1.1.31
-  - name: com.unity.ext.nunit
-    version: 1.0.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.2d.common
+    version: 6.0.6
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.settings-manager
-    version: 1.0.3
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.2d.path
+    version: 5.0.2
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
   keywords:
-  - test
-  - coverage
-  - testing
-  - opencover
+  - 2d
+  - shape
+  - spriteshape
+  - smartsprite
+  - spline
+  - terrain2d
   registry:
     id: main
     name: 
@@ -3366,82 +3555,604 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638047147810000000
+  datePublishedTicks: 637958913420000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.testtools.codecoverage.git
-    revision: 4178e047a15e206f715d23af69b02acd367bb000
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 6b783c5dfb5a72d73e2b0a70d1caf4a367c58805
     path: 
   unityLifecycle:
-    version: 1.2.2
+    version: 7.0.6
     nextVersion: 
-- packageId: com.unity.services.core@1.7.0
+- packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
   isDirectDependency: 0
-  version: 1.7.0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.2d.tilemap.extras@2.2.4
+  testable: 0
+  isDirectDependency: 0
+  version: 2.2.4
   source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.services.core@1.7.0
-  assetPath: Packages/com.unity.services.core
-  name: com.unity.services.core
-  displayName: Services Core
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.tilemap.extras@2.2.4
+  assetPath: Packages/com.unity.2d.tilemap.extras
+  name: com.unity.2d.tilemap.extras
+  displayName: 2D Tilemap Extras
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: '2D Tilemap Extras is a package that contains extra scripts for use
+    with 2D Tilemap features in Unity. These include custom Tiles and Brushes for
+    the Tilemap feature.
+
+
+    The following are included in the package:
+
+    Brushes:
+    GameObject Brush, Group Brush, Line Brush, Random Brush
+
+    Tiles: Animated
+    Tile, Rule Tile, Rule Override Tile
+
+    Other: Grid Information, Custom Rules
+    for Rule Tile'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.5.0-preview
+    - 1.6.0-preview.1
+    - 1.6.1-preview
+    - 1.6.2-preview
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.7.0-preview
+    - 1.8.0-preview
+    - 1.8.1-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 1.8.4-preview
+    - 2.0.0-pre.1
+    - 2.0.0-pre.2
+    - 2.0.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.0
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    compatible:
+    - 2.2.4
+    - 2.2.5
+    verified: 2.2.5
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638067887390000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@2.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/2d-extras.git
+    revision: 2d8c9252168c8fe6d11dce4cfeb56d4d4ade3a70
+    path: 
+  unityLifecycle:
+    version: 2.2.4
+    nextVersion: 
+- packageId: com.unity.mathematics@1.2.6
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.6
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.mathematics@1.2.6
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
   author:
     name: 
     email: 
     url: 
   category: 
   type: asset
-  description: 'This package defines common components used by multiple Game Service
-    packages.
-
-    These are standardized and aim to unify the overall experience
-    of working with Game Services SDK.'
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
   status: 0
   errors: []
   versions:
     all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
     - 1.0.1
-    - 1.1.0-pre.7
-    - 1.1.0-pre.8
-    - 1.1.0-pre.9
-    - 1.1.0-pre.10
-    - 1.1.0-pre.11
-    - 1.1.0-pre.41
-    - 1.1.0-pre.69
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    compatible:
+    - 1.2.6
+    verified: 1.2.6
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 637841876140000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: f110c8c230d253654afed153569030a587cc7557
+    path: 
+  unityLifecycle:
+    version: 1.2.6
+    nextVersion: 
+- packageId: com.unity.2d.common@6.0.6
+  testable: 0
+  isDirectDependency: 0
+  version: 6.0.6
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.common@6.0.6
+  assetPath: Packages/com.unity.2d.common
+  name: com.unity.2d.common
+  displayName: 2D Common
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: 2D Common is a package that contains shared functionalities that are
+    used by most of the other 2D packages.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.9-preview.1
+    - 1.0.9-preview.2
+    - 1.0.10-preview
+    - 1.0.11-preview.1
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.2.0-preview.1
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 3.0.0
+    - 3.0.1
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.1.0
+    - 4.2.0
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.2
+    - 8.0.0
+    - 8.0.1
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    compatible:
+    - 6.0.6
+    verified: 6.0.6
+  dependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.5.1
+  resolvedDependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.burst
+    version: 1.6.6
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638035874770000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: aebc9b022b1d3ecdcc734e0ee8f139df3f3fe3dd
+    path: 
+  unityLifecycle:
+    version: 6.0.6
+    nextVersion: 
+- packageId: com.unity.2d.path@5.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 5.0.2
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.2d.path@5.0.2
+  assetPath: Packages/com.unity.2d.path
+  name: com.unity.2d.path
+  displayName: 2D Path
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: "2D Path provides tooling to edit shapes (polygons and B\xE9zier splines)
+    in EditorWindows and the SceneView."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.1
+    - 1.0.0-preview.4
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
+    - 2.1.1
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    compatible:
+    - 5.0.2
+    verified: 5.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 637817447940000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 41fd674f8e4b2265bdbc50291dced1bd86c590ee
+    path: 
+  unityLifecycle:
+    version: 5.0.2
+    nextVersion: 
+- packageId: com.unity.burst@1.6.6
+  testable: 0
+  isDirectDependency: 0
+  version: 1.6.6
+  source: 1
+  resolvedPath: C:\Data\Projects\Unity\Sample\space shooter\Library\PackageCache\com.unity.burst@1.6.6
+  assetPath: Packages/com.unity.burst
+  name: com.unity.burst
+  displayName: Burst
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: Burst is a compiler that translates from IL/.NET bytecode to highly
+    optimized native code using LLVM.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.2.4-preview.5
+    - 0.2.4-preview.7
+    - 0.2.4-preview.11
+    - 0.2.4-preview.12
+    - 0.2.4-preview.13
+    - 0.2.4-preview.14
+    - 0.2.4-preview.15
+    - 0.2.4-preview.16
+    - 0.2.4-preview.17
+    - 0.2.4-preview.18
+    - 0.2.4-preview.19
+    - 0.2.4-preview.20
+    - 0.2.4-preview.21
+    - 0.2.4-preview.22
+    - 0.2.4-preview.23
+    - 0.2.4-preview.24
+    - 0.2.4-preview.25
+    - 0.2.4-preview.30
+    - 0.2.4-preview.31
+    - 0.2.4-preview.33
+    - 0.2.4-preview.34
+    - 0.2.4-preview.37
+    - 0.2.4-preview.41
+    - 0.2.4-preview.45
+    - 0.2.4-preview.48
+    - 0.2.4-preview.50
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.5
+    - 1.2.0-preview.6
+    - 1.2.0-preview.8
+    - 1.2.0-preview.9
+    - 1.2.0-preview.10
+    - 1.2.0-preview.11
+    - 1.2.0-preview.12
     - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0-preview.1
+    - 1.3.0-preview.2
+    - 1.3.0-preview.3
+    - 1.3.0-preview.4
+    - 1.3.0-preview.5
+    - 1.3.0-preview.6
+    - 1.3.0-preview.7
+    - 1.3.0-preview.8
+    - 1.3.0-preview.9
+    - 1.3.0-preview.10
+    - 1.3.0-preview.11
+    - 1.3.0-preview.12
+    - 1.3.0-preview.13
+    - 1.3.0
     - 1.3.1
     - 1.3.2
-    - 1.4.0
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.0-pre.1
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.4
+    - 1.4.0-preview.5
+    - 1.4.1-pre.1
+    - 1.4.1-pre.2
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4-preview.1
+    - 1.4.4-preview.2
+    - 1.4.4
+    - 1.4.5
+    - 1.4.6
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.11
+    - 1.5.0-pre.3
+    - 1.5.0-pre.4
+    - 1.5.0-pre.5
+    - 1.5.0
+    - 1.5.1
     - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6-preview.1
+    - 1.5.6
+    - 1.6.0-pre.2
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
     - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.6.6
+    - 1.7.0-pre.1
     - 1.7.0
     - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
     - 1.8.1
     - 1.8.2
+    - 1.8.3
+    - 1.8.4
     compatible:
+    - 1.6.6
+    - 1.7.0-pre.1
     - 1.7.0
     - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
     - 1.8.1
     - 1.8.2
-    verified: 1.7.1
+    - 1.8.3
+    - 1.8.4
+    verified: 1.6.6
   dependencies:
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.1
   resolvedDependencies:
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
   keywords: []
   registry:
     id: main
@@ -3453,143 +4164,14 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638059514260000000
+  datePublishedTicks: 637902875830000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 08a8fcaac21b4eebbb92708e367ad3a276b6f5a6
+    url: https://github.cds.internal.unity3d.com/unity/burst.git
+    revision: 21ee3d01c6a374f6b01106f9eb6f1b43e113b1a3
     path: 
   unityLifecycle:
-    version: 1.7.0
-    nextVersion: 
-- packageId: com.unity.settings-manager@1.0.3
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.3
-  source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.settings-manager@1.0.3
-  assetPath: Packages/com.unity.settings-manager
-  name: com.unity.settings-manager
-  displayName: Settings Manager
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: A framework for making any serializable field a setting, complete
-    with a pre-built settings interface.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.1.0-preview.4
-    - 0.1.0-preview.8
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.3
-    - 2.0.0
-    - 2.0.1
-    compatible:
-    - 1.0.3
-    - 2.0.0
-    - 2.0.1
-    verified: 1.0.3
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637300096300000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
-    revision: 473664ccba1496294b741cf169740a5d54b3d0b6
-    path: 
-  unityLifecycle:
-    version: 1.0.3
-    nextVersion: 
-- packageId: com.unity.nuget.newtonsoft-json@3.0.2
-  testable: 0
-  isDirectDependency: 0
-  version: 3.0.2
-  source: 1
-  resolvedPath: C:\Data\Projects\Unity\Sample\Starshooter\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.1.
-
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.2
-    - 3.0.1
-    - 3.0.2
-    - 3.1.0
-    compatible:
-    - 3.0.2
-    - 3.1.0
-    verified: 3.0.2
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637846828220000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
-    path: 
-  unityLifecycle:
-    version: 3.0.2
+    version: 1.6.6
     nextVersion: 
