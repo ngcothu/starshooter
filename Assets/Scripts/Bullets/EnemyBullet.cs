@@ -17,7 +17,10 @@ public class EnemyBullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Move();
+        if (GeneralData.onOtherTasks == false)
+        {
+            Move();
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

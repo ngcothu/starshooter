@@ -1068,7 +1068,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 748232966697067521, guid: 3ddd8bb2cd67f904e8021b8b68315bc7, type: 3}
       propertyPath: min_Y
-      value: -5
+      value: -6.3
       objectReference: {fileID: 0}
     - target: {fileID: 748232966697067521, guid: 3ddd8bb2cd67f904e8021b8b68315bc7, type: 3}
       propertyPath: Bullet

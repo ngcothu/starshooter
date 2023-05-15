@@ -219,7 +219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  deactivate_Timer: 6
+  deactivate_Timer: 5.5
   scoretext: {fileID: 0}
 --- !u!114 &6898818376347887865
 MonoBehaviour:

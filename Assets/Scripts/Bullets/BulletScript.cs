@@ -22,7 +22,10 @@ public class BulletScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Move();
+        if (GeneralData.onOtherTasks == false)
+        {
+            Move();
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
